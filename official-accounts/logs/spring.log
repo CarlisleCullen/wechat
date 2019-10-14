@@ -1,0 +1,10 @@
+2019-09-10 13:59:50.594  INFO 10400 --- [main] c.c.o.a.OfficialAccountsApplicationTests : Starting OfficialAccountsApplicationTests on CarlisledeMBP.lan with PID 10400 (started by carlisle in /Users/carlisle/workSpace/wechat/official-accounts)
+2019-09-10 13:59:50.595  INFO 10400 --- [main] c.c.o.a.OfficialAccountsApplicationTests : The following profiles are active: dev
+2019-09-10 13:59:51.784  INFO 10400 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-10 13:59:51.998  INFO 10400 --- [main] c.c.o.a.OfficialAccountsApplicationTests : Started OfficialAccountsApplicationTests in 1.808 seconds (JVM running for 2.681)
+2019-09-10 13:59:52.273  INFO 10400 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-10 14:58:49.699  INFO 11005 --- [main] c.c.o.a.OfficialAccountsApplicationTests : Starting OfficialAccountsApplicationTests on CarlisledeMBP.lan with PID 11005 (started by carlisle in /Users/carlisle/workSpace/wechat/official-accounts)
+2019-09-10 14:58:49.702  INFO 11005 --- [main] c.c.o.a.OfficialAccountsApplicationTests : The following profiles are active: dev
+2019-09-10 14:58:50.853  INFO 11005 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-10 14:58:51.076  INFO 11005 --- [main] c.c.o.a.OfficialAccountsApplicationTests : Started OfficialAccountsApplicationTests in 1.693 seconds (JVM running for 2.428)
+2019-09-10 14:58:51.361  INFO 11005 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

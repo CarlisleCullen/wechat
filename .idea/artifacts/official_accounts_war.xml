@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="official-accounts:war">
+    <output-path>$PROJECT_DIR$/official-accounts/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>official-accounts</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="official-accounts-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="official-accounts:war exploded" />
+    </root>
+  </artifact>
+</component>
