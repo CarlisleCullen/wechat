@@ -1,7 +1,7 @@
 server:
   port: 80
+  servlet:
+    context-path: /wechat
 
 logging:
-  level:
-    root: info
-  path: ./logs
+  config: classpath:logback-spring.xml

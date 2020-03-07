@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,7 +11,7 @@
         <module name="parent" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="7">
+    <bytecodeTargetLevel target="8">
       <module name="official-accounts" target="1.8" />
       <module name="parent" target="1.8" />
       <module name="wechat" target="1.8" />
@@ -20,7 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="official-accounts" options="-parameters" />
       <module name="parent" options="-parameters" />
-      <module name="wechat" options="-parameters" />
+      <module name="wechat" options="" />
     </option>
   </component>
 </project>
